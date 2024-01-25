@@ -38,7 +38,6 @@ const Feed = () => {
   );
 
   if (!fontsLoaded) {
-    // Font is not yet loaded, render a loading indicator or a fallback
     return <ActivityIndicator />;
   }
 

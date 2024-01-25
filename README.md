@@ -20,7 +20,7 @@ This mobile application is built using React Native and Expo, allowing users to 
 1. Clone this repository to your local machine:
 
    ```
-   git clone https://github.com/your-username/react-native-expo-shopping-app.git
+   git clone https://github.com/kesraouiMohamed1991/ecommerce-app.git
    ```
 
 2. Navigate to the project directory:
